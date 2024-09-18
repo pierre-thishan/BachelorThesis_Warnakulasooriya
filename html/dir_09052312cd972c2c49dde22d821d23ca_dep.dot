@@ -1,0 +1,14 @@
+digraph "lib/i2cSensorLib"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_97aefd0d527b934f1d99a682da8fe6a9 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="lib", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_97aefd0d527b934f1d99a682da8fe6a9.html",tooltip=""]
+  dir_238f906fc56b43db897d4309d50adb0c [label="plunger", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_238f906fc56b43db897d4309d50adb0c.html",tooltip=""];
+  dir_09052312cd972c2c49dde22d821d23ca [label="i2cSensorLib", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_09052312cd972c2c49dde22d821d23ca.html",tooltip=""];
+  }
+  dir_09052312cd972c2c49dde22d821d23ca->dir_238f906fc56b43db897d4309d50adb0c [headlabel="1", labeldistance=1.5 headhref="dir_000001_000003.html" href="dir_000001_000003.html" color="steelblue1" fontcolor="steelblue1"];
+}

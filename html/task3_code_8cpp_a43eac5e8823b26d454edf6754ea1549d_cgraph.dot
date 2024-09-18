@@ -1,0 +1,15 @@
+digraph "Task3code"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="Task3code",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Task3code function."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="monitorTask3Performance",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$task3_code_8cpp.html#a23589c26535cd9e27226c0976f1de7b9",tooltip="Monitors the performance of Task3 by calculating its execution frequency."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="reportState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$plunger_8cpp.html#abf33d29e2dad7b8bfdb272d14369a85c",tooltip="Reports the current state of the system."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="currentRoutineName",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$plunger_8cpp.html#af8e7f0952cdc58b0e207a80e38f8e79b",tooltip="Converts the current routine enum to a user-readable string."];
+}

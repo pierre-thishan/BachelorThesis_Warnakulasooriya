@@ -1,0 +1,11 @@
+digraph "HX71708::wait_ready_timeout"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="HX71708::wait_ready\l_timeout",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="HX71708::is_ready",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_h_x71708.html#a250316574d5a8adb8474cc3cf5cadfe3",tooltip=" "];
+}

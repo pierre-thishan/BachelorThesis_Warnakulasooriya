@@ -1,0 +1,25 @@
+var pinout_8h =
+[
+    [ "data_pin", "pinout_8h.html#ab6be900ec4ce9f65f3ed08a2d1a93d6c", null ],
+    [ "dFreq", "pinout_8h.html#a73871e4765b1506269e6afa8bc9916ac", null ],
+    [ "dFreq2", "pinout_8h.html#a240d6cc0a66273433b3d94966e70f256", null ],
+    [ "endstop_max_pin", "pinout_8h.html#a358ba8743506b80f9a69da8f5b9e30ba", null ],
+    [ "endstop_min_pin", "pinout_8h.html#abec3c3d406c6a175ba0c6bc210f95a05", null ],
+    [ "ENDSTOPS_TRIGGER_STATE", "pinout_8h.html#acd0afd962f4df3496980b6a7bbdc7d47", null ],
+    [ "fan_pwm_pin", "pinout_8h.html#a6530d134dabd8d38b96451b0575141e2", null ],
+    [ "heater_pin", "pinout_8h.html#a7ac992fe2e1bee8ee1e7914c592c5d0d", null ],
+    [ "MAX31865_CS", "pinout_8h.html#a63506599eb96515d98ad030473c6989f", null ],
+    [ "MAX31865_MISO", "pinout_8h.html#a59631c41757dc198a3bec090481d8f8f", null ],
+    [ "MAX31865_MOSI", "pinout_8h.html#a3b574d422ba46edab3bbd442f48f436a", null ],
+    [ "MAX31865_SCLK", "pinout_8h.html#a6c05ac4154b29e7795f54fc0c9dc6eb3", null ],
+    [ "motor_enable_pin", "pinout_8h.html#ae475d7e9c33e08ef5726d49cce7fcf35", null ],
+    [ "pole_pairs", "pinout_8h.html#a009ac9245404fceb6bd44621f38056c7", null ],
+    [ "pump_pwm_pin", "pinout_8h.html#a6c099be0f4578fbdcd785e8d61a91ded", null ],
+    [ "pwmA_pin", "pinout_8h.html#a7ddf905b9f56f26cd1697f057c807635", null ],
+    [ "pwmB_pin", "pinout_8h.html#a4b3cf0564c4f6f75e7589a4b0a6fe038", null ],
+    [ "pwmC_pin", "pinout_8h.html#a2c8b34b9bd3b185cef43ee9cfc5dc50e", null ],
+    [ "RNOMINAL", "pinout_8h.html#abeb48521bcdeff0b7745323006ea1846", null ],
+    [ "RREF", "pinout_8h.html#a668f403855f650c8181d56f44fd18460", null ],
+    [ "serial_clock_pin", "pinout_8h.html#af0a19989be5e91fafb0175425a3c837d", null ],
+    [ "servo_pin", "pinout_8h.html#a7d1d282daa1c5510a89e07288a0806fc", null ]
+];
